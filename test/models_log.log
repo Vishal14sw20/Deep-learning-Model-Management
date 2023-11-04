@@ -1,0 +1,355 @@
+Method :  zlib
+ Extraction :  fe
+  Dataset :  ant_beans
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 0.36 MB
+    Total time in Saving Model : 13.527065753936768
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 0.13 MB
+    Total time in Saving Model : 2.513672113418579
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 0.40 MB
+    Total time in Saving Model : 19.569321870803833
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 0.63 MB
+    Total time in Saving Model : 33.580058097839355
+  Dataset :  image_net_subset
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 0.36 MB
+    Total time in Saving Model : 13.759782791137695
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 0.13 MB
+    Total time in Saving Model : 2.5604708194732666
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 0.41 MB
+    Total time in Saving Model : 20.205701112747192
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 0.66 MB
+    Total time in Saving Model : 32.385324001312256
+ Extraction :  ft
+  Dataset :  ant_beans
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 0.22 MB
+    Total time in Saving Model : 14.24219799041748
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 34.30 MB
+    Total time in Saving Model : 6.983058929443359
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 253.20 MB
+    Total time in Saving Model : 58.15194320678711
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 395.13 MB
+    Total time in Saving Model : 77.58210682868958
+  Dataset :  image_net_subset
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 19.90 MB
+    Total time in Saving Model : 15.668542861938477
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 38.36 MB
+    Total time in Saving Model : 6.129823923110962
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 281.17 MB
+    Total time in Saving Model : 51.36975598335266
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 436.07 MB
+    Total time in Saving Model : 74.76164507865906
+Method :  gzip
+ Extraction :  fe
+  Dataset :  ant_beans
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 0.36 MB
+    Total time in Saving Model : 13.759389162063599
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 0.13 MB
+    Total time in Saving Model : 2.638129949569702
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 0.41 MB
+    Total time in Saving Model : 20.430046796798706
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 0.63 MB
+    Total time in Saving Model : 32.08283710479736
+  Dataset :  image_net_subset
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 0.36 MB
+    Total time in Saving Model : 13.122182846069336
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 0.13 MB
+    Total time in Saving Model : 2.5683889389038086
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 0.41 MB
+    Total time in Saving Model : 20.66593313217163
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 0.66 MB
+    Total time in Saving Model : 31.23159384727478
+ Extraction :  ft
+  Dataset :  ant_beans
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 0.22 MB
+    Total time in Saving Model : 14.407207012176514
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 34.30 MB
+    Total time in Saving Model : 7.4213409423828125
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 253.03 MB
+    Total time in Saving Model : 69.15338706970215
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 395.13 MB
+    Total time in Saving Model : 94.45429563522339
+  Dataset :  image_net_subset
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 19.77 MB
+    Total time in Saving Model : 37.428972005844116
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 38.36 MB
+    Total time in Saving Model : 6.46463680267334
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 281.16 MB
+    Total time in Saving Model : 55.03074502944946
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 436.03 MB
+    Total time in Saving Model : 77.77264380455017
+Method :  lzma
+ Extraction :  fe
+  Dataset :  ant_beans
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 0.18 MB
+    Total time in Saving Model : 19.79906392097473
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 0.10 MB
+    Total time in Saving Model : 4.443684101104736
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 0.14 MB
+    Total time in Saving Model : 30.304410934448242
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 0.22 MB
+    Total time in Saving Model : 44.060460805892944
+  Dataset :  image_net_subset
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 0.19 MB
+    Total time in Saving Model : 19.288681030273438
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 0.10 MB
+    Total time in Saving Model : 3.9626049995422363
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 0.14 MB
+    Total time in Saving Model : 31.049906253814697
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 0.26 MB
+    Total time in Saving Model : 45.8563871383667
+ Extraction :  ft
+  Dataset :  ant_beans
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 0.04 MB
+    Total time in Saving Model : 20.497970819473267
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 30.31 MB
+    Total time in Saving Model : 21.41863489151001
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 216.46 MB
+    Total time in Saving Model : 174.29798817634583
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 355.65 MB
+    Total time in Saving Model : 256.97946214675903
+  Dataset :  image_net_subset
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 16.64 MB
+    Total time in Saving Model : 38.164387941360474
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 37.30 MB
+    Total time in Saving Model : 14.551131010055542
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 259.45 MB
+    Total time in Saving Model : 133.311359167099
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 426.40 MB
+    Total time in Saving Model : 232.34567213058472
+Method :  rle
+ Extraction :  fe
+  Dataset :  ant_beans
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 2.02 MB
+    Total time in Saving Model : 20.596616983413696
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 0.47 MB
+    Total time in Saving Model : 4.151981830596924
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 2.72 MB
+    Total time in Saving Model : 31.40593981742859
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 4.16 MB
+    Total time in Saving Model : 48.83801293373108
+  Dataset :  image_net_subset
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 2.02 MB
+    Total time in Saving Model : 20.508657932281494
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 0.48 MB
+    Total time in Saving Model : 4.111294984817505
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 2.72 MB
+    Total time in Saving Model : 31.08167815208435
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 4.21 MB
+    Total time in Saving Model : 46.85870099067688
+ Extraction :  ft
+  Dataset :  ant_beans
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 1.71 MB
+    Total time in Saving Model : 21.660435914993286
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 78.84 MB
+    Total time in Saving Model : 11.56160306930542
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 579.02 MB
+    Total time in Saving Model : 87.55225706100464
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 898.71 MB
+    Total time in Saving Model : 146.2482852935791
+  Dataset :  image_net_subset
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 39.66 MB
+    Total time in Saving Model : 24.35443687438965
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 84.88 MB
+    Total time in Saving Model : 11.706545114517212
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 640.84 MB
+    Total time in Saving Model : 90.83795309066772
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 959.54 MB
+    Total time in Saving Model : 141.4476296901703
+Method :  delta
+ Extraction :  fe
+  Dataset :  ant_beans
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 217.61 MB
+    Total time in Saving Model : 36.328498125076294
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 42.73 MB
+    Total time in Saving Model : 7.325159788131714
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 333.70 MB
+    Total time in Saving Model : 56.26712703704834
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 491.42 MB
+    Total time in Saving Model : 83.9524793624878
+  Dataset :  image_net_subset
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 217.61 MB
+    Total time in Saving Model : 36.60565400123596
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 42.73 MB
+    Total time in Saving Model : 7.42810583114624
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 333.70 MB
+    Total time in Saving Model : 56.237627267837524
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 491.42 MB
+    Total time in Saving Model : 85.01694583892822
+ Extraction :  ft
+  Dataset :  ant_beans
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 217.61 MB
+    Total time in Saving Model : 38.285863161087036
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 42.73 MB
+    Total time in Saving Model : 7.931714057922363
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 333.70 MB
+    Total time in Saving Model : 59.829225063323975
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 491.42 MB
+    Total time in Saving Model : 88.4894700050354
+  Dataset :  image_net_subset
+   Model :  alexnet
+    Size of Original 'alexnet': 217.62 MB
+    Size of Compressed 'alexnet': 217.61 MB
+    Total time in Saving Model : 37.11572504043579
+   Model :  resnet
+    Size of Original 'resnet': 42.74 MB
+    Size of Compressed 'resnet': 42.73 MB
+    Total time in Saving Model : 7.6371917724609375
+   Model :  ViT
+    Size of Original 'ViT': 333.72 MB
+    Size of Compressed 'ViT': 333.70 MB
+    Total time in Saving Model : 58.53168201446533
+   Model :  vgg
+    Size of Original 'vgg': 491.43 MB
+    Size of Compressed 'vgg': 491.42 MB
+    Total time in Saving Model : 86.90359497070312
