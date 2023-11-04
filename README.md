@@ -1,6 +1,6 @@
 # Deep Learning Model Management
 
-This repository is designed to help you manage and run deep learning models with ease. You can download pre-trained model weights and run them using the provided `main.py` script.
+This repository is designed to help you manage and run deep learning models with ease. You can download pre-trained model weights and run them using the provided `main_all_weights_v2.py` for script.
 
 ## Getting Started
 
