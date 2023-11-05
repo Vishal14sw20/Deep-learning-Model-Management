@@ -2,6 +2,8 @@
 
 This repository is designed to help you manage and run deep learning models with ease. You can download pre-trained model weights and run them using the provided `main_all_weights.py` for the script.
 
+For saving action is 's' and for recovering action 'r'.
+
 ## Getting Started
 
 Follow these steps to set up and run the deep learning models in this repository:
